@@ -31,9 +31,11 @@ Examples of APPROVED meta-tasks:
 - "Open to-do list app"
 - "Add 5 tasks in list"
 - "Add shopping as a to-do"
+- "Add a to-do to finish maths chapter 5"
 - "Mark 3rd task as done"
 - "Reorganize my to-do list"
 - "Delete completed tasks"
+- "Add a to do to buy groceries"
 
 Examples of REJECTED real tasks:
 - "Buy groceries"
